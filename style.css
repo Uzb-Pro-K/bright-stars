@@ -65,7 +65,7 @@ body
     200px -200px 20px #00efff,
     -200px 200px 0 #00efff,
     -200px 200px 20px #00efff;
-    transform-origin: 200px;
+    transform-origin: 250px;
     cursor: pointer;
 }
 @keyframes animate
