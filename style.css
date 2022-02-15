@@ -81,3 +81,7 @@ body
         filter: hue-rotate(360deg);
     }
 }
+@media only screen and (max-width: 400px)
+{
+    transform-origin: 300px;
+}
